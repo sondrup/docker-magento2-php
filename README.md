@@ -7,7 +7,7 @@ The goal of this image is to work as a expandable base thats only adds the extra
 ---
 
   - [Travis CI:  
-    ![build status badge](https://travis-ci.org/wexo/docker-magento2-php.svg?branch=master)](https://travis-ci.org/wexo/docker-magento2-php)
+    ![build status badge](https://travis-ci.org/sondrup/docker-magento2-php.svg?branch=master)](https://travis-ci.org/sondrup/docker-magento2-php)
 
 [magento2]: https://github.com/magento/magento2
 [docker-php]: https://registry.hub.docker.com/_/php/
