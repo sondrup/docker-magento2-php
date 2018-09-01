@@ -90,8 +90,8 @@ for version in "${versions[@]}"; do
 	for suite in \
 		stretch \
 		jessie \
-		#alpine3.6 \
-		#alpine3.4 \
+		alpine3.6 \
+		alpine3.4 \
 	; do
 		for variant in \
 			cli \
